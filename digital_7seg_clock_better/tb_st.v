@@ -1,4 +1,4 @@
-module tb_sm();
+module tb_st();
 
 reg clk;
 reg rstn;
