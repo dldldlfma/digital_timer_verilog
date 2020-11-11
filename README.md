@@ -5,6 +5,10 @@
 
 이런걸 말하는건가 싶어서 만들어봄...
 
+대학교 과제하는 기분이 들어서 젊어 진거 같아...
+
+
+
 ---
 
 ## Preparations(준비사항)
@@ -17,6 +21,8 @@ icarusVerilog Download : http://bleyer.org/icarus/
 icarusVerilog 사용법 : https://blog.naver.com/doksg/221699215846
 
 7-seg의 경우 인터넷에 DE2 board로 하는게 있던데 거기에 LOW_ACTIVE 기준으로 작성된게 있어서 참고하여 값을 결정하였음
+
+7-seg truth table : https://www.youtube.com/watch?v=9x-IzoJIsBY&feature=youtu.be&t=175
 
 ---
 
